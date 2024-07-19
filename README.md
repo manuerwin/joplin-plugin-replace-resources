@@ -49,7 +49,7 @@ After backing up your data, defining the configuration settings, and RESTARTING 
 ___CAUTION___ There has been a report of problems processing a very large number of replacement files (8000+), please backup your Joplin data (for example; by using the easy export option), then perform a small test to make sure all works ok for you. Suggest not touching Joplin notes/resources while the replacement is happening. Also take note of how source files can be named below.
 
 ### <a name='StepOne-deletingresourcesandsyncing'></a>Step One - deleting resources and sync'ing
-Move your source files into the files path that you entered/choose in settings. Your source files can be named in two ways:
+Put your source files into the files path that you entered/choose in settings. Your source files can be named in two ways:
 1) the same filename as shown in your notes (for example, music.m3u)
 2) the id of the resource (for example, b8bf831c8d804f6d8e5ab13ae12de595.jpg)
 
