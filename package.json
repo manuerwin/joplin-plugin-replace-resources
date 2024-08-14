@@ -24,7 +24,7 @@
     "resources"
   ],
   "devDependencies": {
-    "@joplin/lib": "~2.13",
+    "@joplin/lib": "~3.0.1",
     "@types/fs-extra": "^9.0.13",
     "@types/jest": "^27.0.2",
     "@types/node": "^18.7.13",
