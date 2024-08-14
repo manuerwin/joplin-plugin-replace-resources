@@ -32,7 +32,7 @@
     "copy-webpack-plugin": "^11.0.0",
     "dotenv": "^16.3.2",
     "fs-extra": "^10.1.0",
-    "glob": "^8.0.3",
+    "glob": "^11.0.0",
     "jest": "^27.5.1",
     "joplinplugindevtools": "^1.0.9",
     "on-build-webpack": "^0.1.0",
