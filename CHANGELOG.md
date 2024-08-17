@@ -2,6 +2,8 @@
 
 ## not released
 
+## v1.5.0 (2024-08-17)
+
 IMPROVED: update to Joplin 3 minimum version
 
 ## v1.4.0 (2024-01-25)
