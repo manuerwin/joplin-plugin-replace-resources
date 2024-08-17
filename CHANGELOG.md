@@ -4,21 +4,20 @@
 
 ## v1.4.0 (2024-01-25)
 
-feat: more information on settings page for users
+IMPROVED: more information on settings page for users.
 
 ## v1.3.2 (2024-01-24)
 
-chore: Bump dependencies (follow-redirects, node-fetch and @joplin/lib, plus npm update)
-formatting: run prettier
+IMPROVED: Bump dependencies (follow-redirects, node-fetch and @joplin/lib, plus npm update) and format code for clarity.
 
 ## v1.3.1 (2024-01-12)
 
-fix: show error message when path files setting is missing, plus clearer instructions around settings and the need to restart Joplin after settings changed.
+FIX: show error message when path files setting is missing, plus clearer instructions around settings and the need to restart Joplin after settings changed.
 
 ## v1.3.0 (2023-12-26)
 
-CHORE: updating Jopin framework. May also close out issue #19.
-DOCS: minor updates to README - there is no UI.
+IMPROVED: updating Jopin framework. May also close out issue #19.
+IMPROVED: clarification updates to README - there is no UI.
 
 ## v1.2.0 (2023-07-18)
 
@@ -26,7 +25,7 @@ FIX: handle attachment resources that do not have title values (e.g. iPhone imag
 IMPROVED: now able to browse for file location in settings.
 IMPROVED: minor update to menu option name.
 IMPROVED: better info logs in console.
-DOCS: detail added to README re: importance of taking backups and original attachment resource name not being changed.
+IMPROVED: detail added to README re: importance of taking backups and original attachment resource name not being changed.
 
 ## v1.1.1 (2022-01-03)
 
@@ -46,15 +45,15 @@ IMPROVED: Tools action now correctly named. Attachments folder only created/chec
 
 ## v1.0.1 (2021-12-15)
 
-DOCS: update package description
+IMPROVED: update package description
 
 ## v1.0.0 (2021-12-15)
 
-Major version - name change from Replace Resources to Attaché
+IMPROVED: Major version - name change from Replace Resources to Attaché
 
 ## v0.13.1 [beta] (2021-11-21)
 
-Bumping the manifest file - no other changes
+IMPROVED: Bumping the manifest file - no other changes
 
 ## v0.13.0 [beta] (2021-11-21)
 
